@@ -34,7 +34,11 @@ Make sure you have these dependencies latest versions installed:
 
 # Screenshots
 
+<img src="https://user-images.githubusercontent.com/62435399/234739728-abc5c0c8-2c83-487b-886a-bb325ce8c17e.svg" alt="Logo" width="720">
 
+<img src="https://user-images.githubusercontent.com/62435399/234739734-1a57e886-2d3f-4e68-8f71-b040c89b169b.svg" alt="Logo" width="720">
+
+<img src="https://user-images.githubusercontent.com/62435399/234739746-6fed05cf-24a6-43b0-b9aa-7fb250d567ea.svg" alt="Logo" width="720">
 
 # Authors
 - [Paola Castro](https://github.com/C-Paola)
