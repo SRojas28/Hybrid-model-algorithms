@@ -3,6 +3,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/SRojas28/Hybrid-model-algorithms?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/SRojas28/Hybrid-model-algorithms?label=Fork&style=social)
 
+[![DOI](https://zenodo.org/badge/633191595.svg)](https://zenodo.org/badge/latestdoi/633191595)
 ![GitHub repo size](https://img.shields.io/github/repo-size/SRojas28/Hybrid-model-algorithms?label=Repo%20Size)
 ![GitHub language count](https://img.shields.io/github/languages/count/SRojas28/Hybrid-model-algorithms?label=Languages)
 ![License](https://img.shields.io/github/license/SRojas28/Hybrid-model-algorithms)
